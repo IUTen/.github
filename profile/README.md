@@ -9,8 +9,7 @@
 </p>
 
 ## About
-
-About Text Here
+Добрый день! Здесь содержатся лабораторные работы, а также личные проекты студентов. Если каждый будет поддерживать приятную атмосферу, тогда довольны будут все)
 
 ## Documentation
 
@@ -26,3 +25,4 @@ Documentation Here
 - [Delevoper Name](GitHub Profile Link)
 
 ## License
+Mit License
