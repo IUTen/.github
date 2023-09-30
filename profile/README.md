@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-   <a href= "https://vk.com/ypsilon_xx"><img alt="Static Badge" src="https://img.shields.io/badge/MainLeader-Samsonov_Egor-blue?label=MainLeader&labelColor=%23e30e0e&color=%23c2c2c2">
-   <a href= "https://vk.com/denchpro9"><img alt="Static Badge" src="https://img.shields.io/badge/Leader-Temirlanov_Amir-blue?label=Leader&labelColor=%23f77225&color=%23c2c2c2">
-   <a href= "https://vk.com/temiramir"><img alt="Static Badge" src="https://img.shields.io/badge/Leader-Zubov_Denis-blue?label=Leader&labelColor=%23f77225&color=%23c2c2c2">
+   <a href= "https://vk.com/ypsilon_xx"><img alt="Static Badge" src="https://img.shields.io/badge/MainLeader-Samsonov_Egor-blue?label=MainLeader&labelColor=%23e30e0e&color=%23c2c2c2"> <a href= "https://vk.com/temiramir">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Leader-Temirlanov_Amir-blue?label=Leader&labelColor=%23f77225&color=%23c2c2c2"> <a href= "https://vk.com/denchpro9">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Leader-Zubov_Denis-blue?label=Leader&labelColor=%23f77225&color=%23c2c2c2">
 </p>
 
 ## About
