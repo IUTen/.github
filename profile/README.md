@@ -31,6 +31,8 @@
 
 **-**`ASM` - FASM(flat assembler)
 
+**-**`Bash` - Bash linux
+
 ## Разработчики
 
 - [Ypsilon](https://github.com/YpsilonXX)
