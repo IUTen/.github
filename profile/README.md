@@ -31,7 +31,7 @@
 
 **-**`ASM` - FASM(flat assembler)
 
-**-**`Bash` - Bash linux
+**-**`BASH` - Bash linux
 
 ## Разработчики
 
