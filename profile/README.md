@@ -35,6 +35,9 @@
 
 **-**`BASH` - Bash linux
 
+**-**`CPP` - С++
+
+
 ## Разработчики
 
 - [Ypsilon](https://github.com/YpsilonXX)
